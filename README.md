@@ -48,7 +48,7 @@ Hvis hjemmesiden involverer brugere, kan du implementere sikkerhedsforanstaltnin
 
 Med denne tilgang kan du oprette en hjemmeside, der bruger HTML, CSS og Angular til at præsentere Superligaen i Danmark ved at hente og vise opdaterede fodboldresultater, holdopstillinger og spillerstatistikker fra Superligaens API. 
 Husk at overholde API-leverandørens vilkår og betingelser samt eventuelle begrænsninger for brugen af ​​dataene.
-
+Superliga API: https://www.sportmonks.com/football-api/denmark/superliga-api/
 
 
 
